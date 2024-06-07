@@ -6,9 +6,9 @@
 
 ## Main Projects
 <ul>
-  <li><a href="https://github.com/username/WoW-DBM-Bleach-Music-Pack" target="_blank">WoW-DBM-Bleach-Music-Pack</a>: World Of Warcraft - DMB Bleach Music Pack.</li>
-  <li><a href="https://github.com/username/Club-Sportiv-Website" target="_blank">Club-Sportiv-Website</a>: A website built with HTML/PHP/CSS.</li>
-  <li><a href="https://github.com/username/Phishing-EvStudWebsite" target="_blank">Phishing-EvStudWebsite</a>: A phishing website for SSI.</li>
+  <li><a href="https://github.com/Dorogea/WoW-DBM-Bleach-Music-Pack" target="_blank">WoW-DBM-Bleach-Music-Pack</a>: World Of Warcraft - DMB Bleach Music Pack.</li>
+  <li><a href="https://github.com/Dorogea/Club-Sportiv-Website" target="_blank">Club-Sportiv-Website</a>: A website built with HTML/PHP/CSS.</li>
+  <li><a href="https://github.com/Dorogea/Phishing-EvStudWebsite" target="_blank">Phishing-EvStudWebsite</a>: A phishing website for SSI.</li>
 </ul>
 
 ## Skills
